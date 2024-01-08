@@ -1,0 +1,124 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "events": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Event"
+      }
+    },
+    "team": {
+      "type": "object",
+      "required": [
+        "directors",
+        "people"
+      ],
+      "properties": {
+        "directors": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Person"
+          }
+        },
+        "people": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Person"
+          }
+        }
+      }
+    }
+  },
+  "required": [
+    "events",
+    "team"
+  ],
+  "definitions": {
+    "Event": {
+      "type": "object",
+      "properties": {
+        "date": {
+          "type": "number",
+          "description": "epoch in milliseconds"
+        },
+        "title": {
+          "type": "string"
+        },
+        "chairs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Presenter"
+          }
+        },
+        "presenters": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Presenter"
+          }
+        },
+        "location": {
+          "type": "string"
+        },
+        "image": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string",
+          "enum": [
+            "zoom",
+            "workshop",
+            "discussion"
+          ]
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "link": {
+          "type": "string"
+        },
+        "details": {
+          "type": "string"
+        },
+        "registration": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "date",
+        "title"
+      ]
+    },
+    "Presenter": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "affiliation": {
+          "type": "string"
+        }
+      }
+    },
+    "Person": {
+      "type": "object",
+      "properties": {
+        "image": {
+          "type": "string"
+        },
+        "name": {
+          "type": "string"
+        },
+        "position": {
+          "type": "string"
+        },
+        "affiliation": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

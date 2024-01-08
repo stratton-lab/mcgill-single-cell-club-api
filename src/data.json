@@ -1,0 +1,221 @@
+{
+  "$schema": "data_schema.json",
+  "events": [
+    {
+      "date": 1706281200000,
+      "title": "Oligodendroglia in Development and Multiple Sclerosis: Insights from Single-Cell and Spatial Omics",
+      "presenters": [
+        {
+          "name": "Goncalo Castelo-Branco, PhD",
+          "affiliation": "Professor of Glial Cell Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden"
+        }
+      ],
+      "category": "workshop",
+      "location": "William E. Stavert Amphiteatre, Douglas Hall, Douglas Research Centre, 6875, Lasalle Boulevard, Montreal",
+      "contact": "coordinator@adversitymentalhealth.com",
+      "image": "castelo-branco.png",
+      "details": "To join the meet the speaker session for trainees (lunch provided), please send a message to coordinator@adversitymentalhealth.com"
+    },
+    {
+      "date": 1717646400000,
+      "title": "Single cell/nucleus RNA sequencing workshop",
+      "chairs": [
+        {
+          "name": "Dr. Moein Yaqubi",
+          "affiliation": "Post-doctoral scholar, Stratton lab, The Neuro"
+        },
+        {
+          "name": "Dr. Rhalena Thomas",
+          "affiliation": "Research Associate, Fon & Durcan Labs, The Neuro"
+        }
+      ],
+      "category": "workshop",
+      "details": "Our upcoming seminar will focus on understanding the wet-lab and dry-lab aspects of this technique. Specifically, the participants will perform a mock experiment in the lab and they will learn how to analyze the data from the primary demultiplexing step through CellRanger and the subsequent quality control, clustering, annotation, differentially expressed genes analysis using Seurat package.",
+      "registration": "Registration is free but required. The link for the registration and the final agenda of the workshop will be provided soon."
+    },
+    {
+      "date": 1701900000000,
+      "title": "Spatial Transcriptomics: Charting new dimensions to tissue architecture",
+      "category": "workshop",
+      "chairs": [
+        {
+          "name": "Dr Rhalena Thomas",
+          "affiliation": "Research Associate, Fon & Durcan Labs, The Neuro"
+        }
+      ],
+      "presenters": [
+        {
+          "name": "Cameron Oram",
+          "affiliation": "PhD Student, Lab of Jean Francois Poulin, Montreal Neurological Institute"
+        },
+        {
+          "name": "Tamiko Nishimura",
+          "affiliation": "GeoMx Digital Spatial Profiling Platform Manager, Dahdaleh Institute of Genomic Medicine"
+        }
+      ],
+      "location": "Thompson House, 3650, Mc Tavish St, Montreal, H3A 1Y2",
+      "details": "You will learn about different platforms to perform Spatial Transcriptomics, their opportunities and challenges, data processing approaches and ways to visualize spatial data.",
+      "registration": "Registration is free but required. Use this link to register: https://forms.gle/we2QHFNLiRD9fFat7"
+    },
+    {
+      "date": 1695787200000,
+      "title": "Liquid chromatography/mass spectrometry based proteomics at the single cell level",
+      "presenters": [
+        {
+          "name": "Andrew Leduc",
+          "affiliation": "Slavov lab at Northeastern University"
+        }
+      ],
+      "image": "liquid_chromatography.png",
+      "category": "zoom"
+    },
+    {
+      "date": 1698206400000,
+      "title": "Developing pipelines for spatial transcriptomics analysis",
+      "presenters": [
+        {
+          "name": "David Fischer",
+          "affiliation": "Broad Institute"
+        }
+      ],
+      "image": "pipelines.png",
+      "category": "zoom"
+    },
+    {
+      "date": 1701234000000,
+      "title": "Single nucleus sequencing and analysis",
+      "presenters": [
+        {
+          "name": "Anjali Chawla",
+          "affiliation": "Douglas Institute"
+        }
+      ]
+    },
+    {
+      "date": 1706677200000,
+      "title": "Machine learning and computational approaches",
+      "presenters": [],
+      "category": "zoom"
+    },
+    {
+      "date": 1709096400000,
+      "title": "A unified model for interpretable latent embedding of multi-sample, multicondition single-cell data",
+      "presenters": [
+        {
+          "name": "Ariel Mardigal Aguirre",
+          "affiliation": "McGill University"
+        }
+      ],
+      "category": "zoom"
+    },
+    {
+      "date": 1711512000000,
+      "title": "CUT and Tag",
+      "presenters": [
+        {
+          "name": "Mukund Kabbe",
+          "affiliation": "Karolinska Institutet"
+        }
+      ]
+    },
+    {
+      "date": 1713931200000,
+      "title": "Single cell sequencing in hematological cancers",
+      "presenters": []
+    },
+    {
+      "date": 1716955200000,
+      "title": "Genetic demultiplexing",
+      "presenters": [
+        {
+          "name": "Michael Fiorini",
+          "affiliation": "McGill University"
+        }
+      ]
+    }
+  ],
+  "team": {
+    "directors": [
+      {
+        "name": "Dr. Jo Anne Stratton",
+        "position": "co-Director",
+        "affiliation": "Assistant Professor of Neuroimmunology at The Neuro, McGill University",
+        "image": "stratton.png"
+      },
+      {
+        "name": "Dr. David Langlais",
+        "position": "co-Director",
+        "affiliation": "Assistant Professor of Human Genetics at McGill Genome Centre, McGill University",
+        "image": "langlais.png"
+      }
+    ],
+    "people": [
+      {
+        "name": "Dr. Erwin Schurr",
+        "position": "Social media: Twitter",
+        "affiliation": "Professor of Medicine at the RI-MUHC",
+        "image": "schurr.png"
+      },
+      {
+        "name": "Dr. Rhalena Thomas",
+        "position": "Content Design and Speaker invitation",
+        "affiliation": "Research Associate, The Neuro, McGill University, Lab of Dr. Fon",
+        "image": "thomas.png"
+      },
+      {
+        "name": "Dr. Vinicius Fava",
+        "position": "Social Media",
+        "affiliation": "Research Associate, RI-MUHC, Lab of Dr. Schurr",
+        "image": "fava.png"
+      },
+      {
+        "name": "Julia Luo",
+        "position": "Social media: Slack",
+        "affiliation": "MD/PhD student in Human Genetics, McGill University, Lab of Dr. Langlais",
+        "image": "luo.png"
+      },
+      {
+        "name": "Matthew Salaciak",
+        "position": "Web design and membership registration",
+        "affiliation": "MDCM Student, McGill University",
+        "image": "salaciak.png"
+      },
+      {
+        "name": "Michael Fiorini",
+        "position": "Communications and schedule management",
+        "affiliation": "MSc student in Human Genetics, McGill University, Lab of Dr. Farhan",
+        "image": "fiorini.png"
+      },
+      {
+        "name": "Michael Luo",
+        "position": "Internal communications, meeting chair",
+        "affiliation": "MD/PhD student, McGill University, Lab of Dr. Petrecca",
+        "image": "mluo.png"
+      },
+      {
+        "name": "Dr. Jean-Francois Poulin",
+        "position": "Content Design and Speaker invitation",
+        "affiliation": "Assistant Professor in the Department of Neurology and Neurosurgery at McGill University",
+        "image": "poulin.png"
+      },
+      {
+        "name": "Theresa Degenhard",
+        "position": "Event Coordinator",
+        "affiliation": "PhD Candidate in the Integrated Program in Neuroscience, Lab of Dr. Petrecca",
+        "image": "degenhard.png"
+      },
+      {
+        "name": "Dr. Moein Yaqubi",
+        "position": "Lead organizer of educational scRNA-seq workshop",
+        "affiliation": "Post-doctoral fellow, Lab of Dr. Stratton",
+        "image": "yaqubi.png"
+      },
+      {
+        "name": "Dr. Alexis Allot",
+        "position": "Open Science Officer",
+        "affiliation": "Lab of Dr. Stratton",
+        "image": "allot.png"
+      }
+    ]
+  }
+}
