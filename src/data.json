@@ -13,7 +13,7 @@
       "category": "special-seminar",
       "location": "William E. Stavert Amphiteatre, Douglas Hall, Douglas Research Centre, 6875, Lasalle Boulevard, Montreal",
       "contact": "coordinator@adversitymentalhealth.com",
-      "image": 1,
+      "image": "castelo-branco.png",
       "details": "To join the meet the speaker session for trainees (lunch provided), please send a message to coordinator@adversitymentalhealth.com"
     },
     {
@@ -23,7 +23,7 @@
       "chairs": [
         {
           "name": "Dr. Moein Yaqubi",
-          "affiliation": "Post-doctoral scholar, Stratton lab, The Neuro"
+          "affiliation": "Post-doctoral Scholar, Stratton lab, The Neuro"
         },
         {
           "name": "Dr. Rhalena Thomas",
