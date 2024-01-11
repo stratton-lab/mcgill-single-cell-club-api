@@ -1,0 +1,22 @@
+name: Validate JSON and Deploy
+
+on: push
+
+jobs:
+  validate-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Validate JSON
+        run: |
+          npm install -g ajv-cli
+          ajv validate -s ./src/data_schema.json -d ./src/data.json
+
+      - name: Deploy to GitHub Pages
+        if: success()
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./src
