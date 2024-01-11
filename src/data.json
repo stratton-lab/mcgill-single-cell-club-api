@@ -10,7 +10,7 @@
           "affiliation": "Professor of Glial Cell Biology, Department of Medical Biochemistry and Biophysics, Karolinska Institutet, Stockholm, Sweden"
         }
       ],
-      "category": "workshop",
+      "category": "special-seminar",
       "location": "William E. Stavert Amphiteatre, Douglas Hall, Douglas Research Centre, 6875, Lasalle Boulevard, Montreal",
       "contact": "coordinator@adversitymentalhealth.com",
       "image": "castelo-branco.png",
@@ -19,6 +19,7 @@
     {
       "date": 1717646400000,
       "title": "Single cell/nucleus RNA sequencing workshop",
+      "image": "rna-seq-workshop.jpg",
       "chairs": [
         {
           "name": "Dr. Moein Yaqubi",
@@ -36,6 +37,7 @@
     {
       "date": 1701900000000,
       "title": "Spatial Transcriptomics: Charting new dimensions to tissue architecture",
+      "image": "tissue-architecture.jpg",
       "category": "workshop",
       "chairs": [
         {
@@ -66,7 +68,7 @@
           "affiliation": "Slavov lab at Northeastern University"
         }
       ],
-      "image": "liquid_chromatography.png",
+      "image": "liquid-christalo.png",
       "category": "zoom"
     },
     {
@@ -78,12 +80,14 @@
           "affiliation": "Broad Institute"
         }
       ],
-      "image": "pipelines.png",
+      "image": "pipeline-transcript.png",
       "category": "zoom"
     },
     {
       "date": 1701234000000,
       "title": "Single nucleus sequencing and analysis",
+      "category": "zoom",
+      "image": "single-nucleus.png",
       "presenters": [
         {
           "name": "Anjali Chawla",
@@ -94,12 +98,14 @@
     {
       "date": 1706677200000,
       "title": "Machine learning and computational approaches",
+      "image": "machine-learn.png",
       "presenters": [],
       "category": "zoom"
     },
     {
       "date": 1709096400000,
       "title": "A unified model for interpretable latent embedding of multi-sample, multicondition single-cell data",
+      "image": "unified-model.png",
       "presenters": [
         {
           "name": "Ariel Mardigal Aguirre",
@@ -111,6 +117,7 @@
     {
       "date": 1711512000000,
       "title": "CUT and Tag",
+      "category": "zoom",
       "presenters": [
         {
           "name": "Mukund Kabbe",
@@ -120,12 +127,16 @@
     },
     {
       "date": 1713931200000,
+      "category": "zoom",
       "title": "Single cell sequencing in hematological cancers",
+      "image": "hema-cancer.png",
       "presenters": []
     },
     {
       "date": 1716955200000,
       "title": "Genetic demultiplexing",
+      "image": "gen-demult.png",
+      "category": "zoom",
       "presenters": [
         {
           "name": "Michael Fiorini",
@@ -135,86 +146,87 @@
     }
   ],
   "team": {
-    "directors": [
+    "people": [
       {
         "name": "Dr. Jo Anne Stratton",
         "position": "co-Director",
-        "affiliation": "Assistant Professor of Neuroimmunology at The Neuro, McGill University",
-        "image": "stratton.png"
+        "affiliation": "Assistant Professor of Neuroimmunology.\nThe Neuro, McGill University",
+        "image": "stratton.png",
+        "director": true
       },
       {
         "name": "Dr. David Langlais",
         "position": "co-Director",
-        "affiliation": "Assistant Professor of Human Genetics at McGill Genome Centre, McGill University",
-        "image": "langlais.png"
-      }
-    ],
-    "people": [
-      {
-        "name": "Dr. Erwin Schurr",
-        "position": "Social media: Twitter",
-        "affiliation": "Professor of Medicine at the RI-MUHC",
-        "image": "schurr.png"
+        "affiliation": "Assistant Professor of Human Genetics.\nMcGill Genome Centre, McGill University",
+        "image": "langlais.png",
+        "director": true
       },
       {
-        "name": "Dr. Rhalena Thomas",
-        "position": "Content Design and Speaker invitation",
-        "affiliation": "Research Associate, The Neuro, McGill University, Lab of Dr. Fon",
-        "image": "thomas.png"
-      },
-      {
-        "name": "Dr. Vinicius Fava",
-        "position": "Social Media",
-        "affiliation": "Research Associate, RI-MUHC, Lab of Dr. Schurr",
-        "image": "fava.png"
-      },
-      {
-        "name": "Julia Luo",
-        "position": "Social media: Slack",
-        "affiliation": "MD/PhD student in Human Genetics, McGill University, Lab of Dr. Langlais",
-        "image": "luo.png"
-      },
-      {
-        "name": "Matthew Salaciak",
-        "position": "Web design and membership registration",
-        "affiliation": "MDCM Student, McGill University",
-        "image": "salaciak.png"
-      },
-      {
-        "name": "Michael Fiorini",
-        "position": "Communications and schedule management",
-        "affiliation": "MSc student in Human Genetics, McGill University, Lab of Dr. Farhan",
-        "image": "fiorini.png"
-      },
-      {
-        "name": "Michael Luo",
-        "position": "Internal communications, meeting chair",
-        "affiliation": "MD/PhD student, McGill University, Lab of Dr. Petrecca",
-        "image": "mluo.png"
-      },
-      {
-        "name": "Dr. Jean-Francois Poulin",
-        "position": "Content Design and Speaker invitation",
-        "affiliation": "Assistant Professor in the Department of Neurology and Neurosurgery at McGill University",
-        "image": "poulin.png"
+        "name": "Dr. Moein Yaqubi",
+        "position": "Workshop Chair",
+        "affiliation": "Post-doctoral fellow, Lab of Dr. Stratton.\nThe Neuro, McGill University",
+        "image": "yaqubi.png"
       },
       {
         "name": "Theresa Degenhard",
         "position": "Event Coordinator",
-        "affiliation": "PhD Candidate in the Integrated Program in Neuroscience, Lab of Dr. Petrecca",
+        "affiliation": "PhD Candidate in the Integrated Program in Neuroscience, Lab of Dr. Petrecca. \nThe Neuro, McGill University",
         "image": "degenhard.png"
-      },
-      {
-        "name": "Dr. Moein Yaqubi",
-        "position": "Lead organizer of educational scRNA-seq workshop",
-        "affiliation": "Post-doctoral fellow, Lab of Dr. Stratton",
-        "image": "yaqubi.png"
       },
       {
         "name": "Dr. Alexis Allot",
         "position": "Open Science Officer",
-        "affiliation": "Lab of Dr. Stratton",
+        "affiliation": "Research Associate. Lab of Dr. Stratton.\nThe Neuro, McGill University",
         "image": "allot.png"
+      },
+      {
+        "name": "Dr. Rhalena Thomas",
+        "position": "Workshop Chair",
+        "affiliation": "Research Associate.  Lab of Dr. Fon. \nThe Neuro, McGill University",
+        "image": "thomas.png"
+      },
+      {
+        "name": "Michael Fiorini",
+        "position": "Invitation Coordinator",
+        "affiliation": "MSc student in Human Genetics, Lab of Dr. Farhan. \nThe Neuro, McGill University",
+        "image": "fiorini.png"
+      },
+      {
+        "name": "Matthew Salaciak",
+        "position": "Website Manager",
+        "affiliation": "MDCM Student.\nThe Neuro, McGill University",
+        "image": "salaciak.png"
+      },
+      {
+        "name": "Dr. Jean-Francois Poulin",
+        "position": "Member",
+        "affiliation": "Assistant Professor. \nDepartment of Neurology and Neurosurgery, McGill University",
+        "image": "poulin.png"
+      },
+      {
+        "name": "Dr. Erwin Schurr",
+        "position": "Community Manager",
+        "affiliation": "Professor of Medicine.\nRI-MUHC",
+        "image": "schurr.png"
+      },
+
+      {
+        "name": "Dr. Vinicius Fava",
+        "position": "Community Manager",
+        "affiliation": "Research Associate, Lab of Dr. Schurr.\nRI-MUHC",
+        "image": "fava.png"
+      },
+      {
+        "name": "Julia Luo",
+        "position": "Community Manager",
+        "affiliation": "MD/PhD student in Human Genetics, ab of Dr. Langlais. McGill University",
+        "image": "luo.png"
+      },
+      {
+        "name": "Michael Luo",
+        "position": "Meeting Chair",
+        "affiliation": "MD/PhD student, Lab of Dr. Petrecca.\nMcGill University.",
+        "image": "mluo.png"
       }
     ]
   }

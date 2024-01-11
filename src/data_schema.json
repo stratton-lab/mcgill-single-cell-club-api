@@ -11,16 +11,9 @@
     "team": {
       "type": "object",
       "required": [
-        "directors",
         "people"
       ],
       "properties": {
-        "directors": {
-          "type": "array",
-          "items": {
-            "$ref": "#/definitions/Person"
-          }
-        },
         "people": {
           "type": "array",
           "items": {
@@ -68,7 +61,8 @@
           "enum": [
             "zoom",
             "workshop",
-            "discussion"
+            "discussion",
+            "special-seminar"
           ]
         },
         "tags": {
@@ -117,6 +111,9 @@
         },
         "affiliation": {
           "type": "string"
+        },
+        "director": {
+          "type": "boolean"
         }
       }
     }
