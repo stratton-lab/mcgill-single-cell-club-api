@@ -209,12 +209,23 @@
         "affiliation": "Professor of Medicine.\nRI-MUHC",
         "image": "schurr.png"
       },
-
+      {
+        "name": "This Could Be You",
+        "position": "Join us!",
+        "affiliation": "The Neuro, McGill University",
+        "image": "placeholder1.jpg"
+      },
       {
         "name": "Dr. Vinicius Fava",
         "position": "Community Manager",
         "affiliation": "Research Associate, Lab of Dr. Schurr.\nRI-MUHC",
         "image": "fava.png"
+      },
+      {
+        "name": "This Could Be You",
+        "position": "Join us!",
+        "affiliation": "The Neuro, McGill University",
+        "image": "placeholder2.jpg"
       },
       {
         "name": "Julia Luo",
