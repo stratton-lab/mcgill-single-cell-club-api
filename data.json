@@ -150,7 +150,7 @@
       {
         "name": "Dr. Jo Anne Stratton",
         "position": "co-Director",
-        "affiliation": "Assistant Professor of Neuroimmunology.\nThe Neuro, McGill University",
+        "affiliation": "Assistant Professor of Neuroimmunology,\nDepartment of Neurology and Neurosurgery, McGill University",
         "image": "stratton.png",
         "director": true
       },
@@ -170,13 +170,13 @@
       {
         "name": "Theresa Degenhard",
         "position": "Event Coordinator",
-        "affiliation": "PhD Candidate in the Integrated Program in Neuroscience, Lab of Dr. Petrecca. \nThe Neuro, McGill University",
+        "affiliation": "PhD Candidate in the Integrated Program in Neuroscience, Lab of Dr. Petrecca,\nMcGill University",
         "image": "degenhard.png"
       },
       {
         "name": "Dr. Alexis Allot",
         "position": "Open Science Officer",
-        "affiliation": "Research Associate. Lab of Dr. Stratton.\nThe Neuro, McGill University",
+        "affiliation": "Research Associate. Lab of Dr. Stratton,\nSingle Cell Neurobiology Hub,\n McGill University",
         "image": "allot.png"
       },
       {
@@ -194,7 +194,7 @@
       {
         "name": "Matthew Salaciak",
         "position": "Website Manager",
-        "affiliation": "MDCM Student.\nThe Neuro, McGill University",
+        "affiliation": "MDCM Student,\nMcGill University",
         "image": "salaciak.png"
       },
       {
@@ -212,7 +212,7 @@
       {
         "name": "This Could Be You",
         "position": "Join us!",
-        "affiliation": "The Neuro, McGill University",
+        "affiliation": "McGill University",
         "image": "placeholder1.jpg"
       },
       {
@@ -224,7 +224,7 @@
       {
         "name": "This Could Be You",
         "position": "Join us!",
-        "affiliation": "The Neuro, McGill University",
+        "affiliation": "McGill University",
         "image": "placeholder2.jpg"
       },
       {
@@ -242,7 +242,7 @@
       {
         "name": "This Could Be You",
         "position": "Join us!",
-        "affiliation": "The Neuro, McGill University",
+        "affiliation": "McGill University",
         "image": "placeholder3.jpg"
       }
     ]
