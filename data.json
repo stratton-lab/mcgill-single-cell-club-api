@@ -240,10 +240,10 @@
         "image": "mluo.png"
       },
       {
-        "name": "This Could Be You",
-        "position": "Join us!",
-        "affiliation": "McGill University",
-        "image": "placeholder3.jpg"
+        "name": "Single Cell Club",
+        "position": "Find us on Twitter!",
+        "image": "twitter.jpg",
+        "link": "https://twitter.com/SingleCellClubM"
       }
     ]
   }
