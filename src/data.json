@@ -210,22 +210,10 @@
         "image": "schurr.png"
       },
       {
-        "name": "This Could Be You",
-        "position": "Join us!",
-        "affiliation": "McGill University",
-        "image": "placeholder1.jpg"
-      },
-      {
         "name": "Dr. Vinicius Fava",
         "position": "Community Manager",
         "affiliation": "Research Associate, Lab of Dr. Schurr.\nRI-MUHC",
         "image": "fava.png"
-      },
-      {
-        "name": "This Could Be You",
-        "position": "Join us!",
-        "affiliation": "McGill University",
-        "image": "placeholder2.jpg"
       },
       {
         "name": "Julia Luo",
@@ -238,6 +226,18 @@
         "position": "Meeting Chair",
         "affiliation": "MD/PhD student, Lab of Dr. Petrecca.\nMcGill University.",
         "image": "mluo.png"
+      },
+      {
+        "name": "This Could Be You",
+        "position": "Join us!",
+        "affiliation": "McGill University",
+        "image": "placeholder1.jpg"
+      },
+      {
+        "name": "This Could Be You",
+        "position": "Join us!",
+        "affiliation": "McGill University",
+        "image": "placeholder2.jpg"
       },
       {
         "name": "Single Cell Club",
