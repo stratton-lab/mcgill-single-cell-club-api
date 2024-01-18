@@ -97,9 +97,14 @@
     },
     {
       "date": 1706677200000,
-      "title": "Machine learning and computational approaches",
+      "title": "Single-cell deconvolution by machine learning approaches",
       "image": "machine-learn.png",
-      "presenters": [],
+      "presenters": [
+        {
+          "name": "Yue Li",
+          "affiliation": "McGill University, Mila"
+        }
+      ],
       "category": "zoom"
     },
     {
