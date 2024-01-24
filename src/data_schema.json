@@ -114,6 +114,9 @@
         },
         "director": {
           "type": "boolean"
+        },
+        "link": {
+          "type": "string"
         }
       }
     }
