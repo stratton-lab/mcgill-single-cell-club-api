@@ -1,6 +1,22 @@
 {
   "$schema": "data_schema.json",
   "events": [
+{
+      "date": 1708444800,
+      "title": "The Killam Seminar Series: Microfluidic tools for studying cell-cell interactions",
+      "image": "Iain_Clark.png",
+      "chairs": [
+        {
+          "name": "Dr. Iain Clark",
+          "affiliation": "Assistant Professor, Bioengineering, UC Berkeley"
+        }
+      ],
+      "category": "special-seminar",
+	"location": "De Grandpre Communications Centre,3801 Rue University Montréal, QC H3A 2B4",
+      "details": "Iain C. Clark is an Assistant Professor in the Bioengineering Department at the University of California, Berkeley, and a faculty affiliate at the California Institute for Quantitative Biosciences. Research in the Clark lab combines tools from multiple disciplines - molecular biology, microfluidics, engineering, and bioinformatics - to study infectious diseases, central nervous system inflammation, and neural circuit connectivity.",
+      "registration": "Registration for lunch with Killam lecturer: https://forms.office.com/r/3uqZXJZw6D?origin=QRCode, Registration is required to attend the lecture in-person https://www.eventbrite.ca/e/the-killam-seminar-series-tickets-779451870527?aff=oddtdtcreator, link to watch the lecture live stream https://vimeo.com/event/2446006"
+    },
+
     {
       "date": 1706281200000,
       "title": "Oligodendroglia in Development and Multiple Sclerosis: Insights from Single-Cell and Spatial Omics",
