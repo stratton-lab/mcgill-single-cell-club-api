@@ -2,7 +2,7 @@
   "$schema": "data_schema.json",
   "events": [
 {
-      "date": 1708444800,
+      "date": 1708444800000,
       "title": "The Killam Seminar Series: Microfluidic tools for studying cell-cell interactions",
       "image": "Iain_Clark.png",
       "chairs": [
