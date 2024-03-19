@@ -248,7 +248,52 @@
           "affiliation": "Karolinska Institutet"
         }
       ]
-    } 
+    },
+	{
+      "date": 1670536800000,
+      "title": "Pseudotime trajectory analysis 101: Getting your single cells in order",
+      "image": "sc_generic_2.jpg",
+      "category": "discussion",
+      "chairs": [
+        {
+          "name": "Dr. Javad Nadaf",
+          "affiliation": "Single Cell Bioinformatics Lead, Petrecca Lab"
+        }
+      ],
+      "presenters": [
+        {
+          "name": "Dr. Rhalena Thomas",
+          "affiliation": "NCADD Director of Analytics, Research Associate, Fon & Durcan Labs, McGill University"
+        },
+        {
+          "name": "Charles-Etienne Castonguay",
+          "affiliation": "MD-PhD Candidate, Rouleau & Dion Labs, McGill University"
+        }
+      ],
+      "location": "Thompson House, 3650, Mc Tavish St, Montreal, H3A 1Y2",
+      "details": "This session will cover how analyses of single cell RNA sequencing data using pseudo time trajectory or velocity analysis can be used to understand cell lineages. It will demonstrate and discuss when to use such a computational approach, what computational packages (such as Monocle and Velocyto) to choose from and how to use them for cell ordering.",
+      "registration": "Registration is closed."
+    },
+{
+      "date": 1685653200000,
+      "title": "Cell-Cell Communication 101- Predicting cellular interactions using single cell data",
+      "image": "sc_generic_1.jpg",
+      "category": "discussion",
+      "chairs": [],
+      "presenters": [
+        {
+          "name": "Dr. Shakour Mohammadnia",
+          "affiliation": "Postdoctoral Fellow (Fournier & Antel Labs), The Neuro, McGill University"
+        },
+        {
+          "name": "Dr. Moein Yaqubi",
+          "affiliation": "Postdoctoral Fellow (Stratton Lab), The Neuro, McGill University"
+        }
+      ],
+      "location": "Thompson House, 3650, Mc Tavish St, Montreal, H3A 1Y2",
+      "details": "This session will demonstrate and discuss when to use computational approaches to question relevance of cell-cell communication, what computational packages to choose from and how to apply them to understand potential cell-cell communication in the brain.",
+      "registration": "Registration is closed."
+    }  
   ],
   "team": {
     "people": [
