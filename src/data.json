@@ -249,7 +249,7 @@
         }
       ]
     },
-	  ,{
+	{
       "date": 1670536800000,
       "title": "Pseudotime trajectory analysis 101: Getting your single cells in order",
       "image": "sc_generic_2.jpg",
