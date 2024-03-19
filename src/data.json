@@ -176,9 +176,8 @@
           "affiliation": "McGill University"
         }
       ]
-    }
-
-,{
+    },
+{
       "date": 1666702800000,
       "title": "Therapeutic algebra of immunomodulatory drug responses at single-cell resolution.",
       "image": "sc_generic_2.jpg",
@@ -189,9 +188,8 @@
           "affiliation": "California Institute of Technology"
         }
       ]
-    }
-
-,{
+    },
+{
       "date": 1669726800000,
       "title": "Reconstructing cellular dynamics and repurposing drugs for Idiopathic Pulmonary Fibrosis with a deep generative adversarial network",
       "image": "sc_generic_1.jpg",
@@ -202,9 +200,8 @@
           "affiliation": "McGill University"
         }
       ]
-    }
-
-,{
+    },
+{
       "date": 1674565200000,
       "title": "Single-cell characterization of the T follicular immune response in COVID-19 vaccination using deep learning",
       "image": "sc_generic_2.jpg",
@@ -215,11 +212,8 @@
           "affiliation": "Washington University"
         }
       ]
-    }
-
-
-
-,{
+    },
+{
       "date": 1676984400000,
       "title": "Spatial Transcriptomics and Epigenomics at the Single-Cell Level",
       "image": "sc_generic_1.jpg",
@@ -230,9 +224,8 @@
           "affiliation": "Howard Hughes Medical Institute at Harvard University"
         }
       ]
-    }
-
-,{
+    },
+{
       "date": 1680008400000,
       "title": "Ependymal Cells Assume an Astrocyte-Like Gliotic Profile in Chronic Neuroinflammation with Evidence of Cilia Dysregulation",
       "image": "sc_generic_2.jpg",
@@ -243,11 +236,10 @@
           "affiliation": "McGill University"
         }
       ]
-    }
-,{
+    },
+{
       "date": 1682427600000,
-      "title": "Increasing resolution in stress neurobiology: from single cells to complex group
-behaviors",
+      "title": "Increasing resolution in stress neurobiology: from single cells to complex group behaviors",
       "image": "sc_generic_1.jpg",
       "category": "zoom",
       "presenters": [
@@ -256,7 +248,7 @@ behaviors",
           "affiliation": "Karolinska Institutet"
         }
       ]
-    }  
+    } 
   ],
   "team": {
     "people": [
