@@ -79,6 +79,12 @@
         },
         "registration": {
           "type": "string"
+        },
+        "registrationLinks": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Link"
+          }
         }
       },
       "required": [
@@ -93,6 +99,17 @@
           "type": "string"
         },
         "affiliation": {
+          "type": "string"
+        }
+      }
+    },
+    "Link": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "url": {
           "type": "string"
         }
       }
