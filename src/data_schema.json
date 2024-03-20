@@ -79,6 +79,12 @@
         },
         "registration": {
           "type": "string"
+        },
+        "registrationLinks": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Link"
+          }
         }
       },
       "required": [
