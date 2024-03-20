@@ -97,6 +97,17 @@
         }
       }
     },
+    "Link": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      }
+    },
     "Person": {
       "type": "object",
       "properties": {
