@@ -62,11 +62,15 @@
       "category": "workshop",
       "location": "Jeanne Timmins Amphitheatre & Foyer, The Neuro, 3801 University Street, Montreal",
       "details": "Our upcoming two day workshop will focus on understanding the wet-lab and dry-lab aspects of this technique. Specifically, the participants will perform a mock experiment in the lab and they will learn how to analyze the data from the primary demultiplexing step through CellRanger and the subsequent quality control, clustering, annotation, differentially expressed genes analysis using Seurat package.",
-      "registration": "Attendance is free, food is included. Competitive application process is required.",
+      "registration": "Attendance is free, food is included. Competitive application process is required.                 '",
       "registrationLinks": [
         {
           "name": "Please complete the application HERE",
           "url": "https://docs.google.com/forms/d/e/1FAIpQLSfe5OX3GlE2jKFvFYu8YK0bZeabZ9QJr4sPQtKIMtNW5Mcb8A/viewform"
+        },
+        {
+          "name": "Please find agenda HERE",
+          "url": "https://mcgill-my.sharepoint.com/:b:/g/personal/jo_stratton_mcgill_ca/EaJBUHbVo0VBuzNiCMwTFxUBRE7I0P8iFaKwJ_Ei7Yd_Bw"
         }
       ]
     },
