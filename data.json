@@ -173,9 +173,12 @@
     {
       "date": 1713931200000,
       "category": "zoom",
-      "title": "Single cell sequencing in hematological cancers",
+      "title": "Parse Bio 101",
       "image": "hema-cancer.png",
-      "presenters": []
+      "presenters": [{
+          "name": "Taylor Goldsmith",
+          "affiliation": "McGill University"
+        }]
     },
     {
       "date": 1716955200000,
