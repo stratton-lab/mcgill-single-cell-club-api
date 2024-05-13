@@ -29,6 +29,31 @@
         }
       ]
     },
+	  {
+      "date": 1717704000000,
+      "title": "Quality Control of Single Cell Data- Get clean or get lost",
+      "image": "quality_discussion.jpg",
+      "category": "discussion",
+      "chairs": [
+        {
+          "name": "Michael Luo",
+          "affiliation": "PhD Candidate, Petrecca Lab"
+        }
+      ],
+      "presenters": [
+        {
+          "name": "Sarah Barnett Burns",
+          "affiliation": "PhD Candidate, Turecki Lab"
+        },
+        {
+          "name": "Dr. Mathieu Mancini",
+          "affiliation": "Postdoctoral Fellow, Langlais Lab"
+        }
+      ],
+      "location": "Jeanne Timmins Amphitheatre at The Neuro 3801 Rue University, Montréal, QC H3A 2B4",
+      "details": "You will learn about quality control parameters of single-cell sequencing data including sample preparation, ambient RNA, and doublet detection.",
+      "registration": "Registration not required, The event is kindly supported by HBHL"
+    },
 
     {
       "date": 1706281200000,
