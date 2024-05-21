@@ -84,6 +84,12 @@
           "affiliation": "Research Associate, Fon lab and The Neuro EDDU"
         }
       ],
+      "presenters": [
+        {
+          "name": "Dr. Moein Yaqubi",
+          "affiliation": "Post-doctoral Scholar, Stratton lab, The Neuro"
+        }
+      ],
       "category": "workshop",
       "location": "Jeanne Timmins Amphitheatre & Foyer, The Neuro, 3801 University Street, Montreal",
       "details": "Our upcoming two day workshop will focus on understanding the wet-lab and dry-lab aspects of this technique. Specifically, the participants will perform a mock experiment in the lab and they will learn how to analyze the data from the primary demultiplexing step through CellRanger and the subsequent quality control, clustering, annotation, differentially expressed genes analysis using Seurat package.",
