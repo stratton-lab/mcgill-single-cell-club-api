@@ -35,6 +35,11 @@
           "type": "number",
           "description": "epoch in milliseconds"
         },
+        "days": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "(optional) Number of days this event takes, by default 1"
+        },
         "title": {
           "type": "string"
         },
