@@ -281,6 +281,18 @@
       "category": "zoom"
     },
 {
+      "date": 1730278800000,
+      "title": "From biobank to single-cell analysis: Best practices for managing human samples",
+      "presenters": [
+        {
+          "name": "Stephanie Zandee",
+          "affiliation": "McGill University"
+        }
+      ],
+      "image": "sc_generic_2.jpg",
+      "category": "zoom"
+    },
+{
       "date": 1676984400000,
       "title": "Spatial Transcriptomics and Epigenomics at the Single-Cell Level",
       "image": "sc_generic_1.jpg",
