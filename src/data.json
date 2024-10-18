@@ -293,6 +293,18 @@
       "category": "zoom"
     },
 {
+      "date": 1732716000000,
+      "title": "Overview of single cell and spatial technologies available at the Advanced Genomics Technology Platform & Applying long read sequencing in single cell transcriptome assays",
+      "presenters": [
+        {
+          "name": "Ashot Harutyunyan, Spyridon Oikonomopoulos",
+          "affiliation": "McGill University"
+        }
+      ],
+      "image": "tissue-architecture.jpg",
+      "category": "zoom"
+    },
+{
       "date": 1676984400000,
       "title": "Spatial Transcriptomics and Epigenomics at the Single-Cell Level",
       "image": "sc_generic_1.jpg",
