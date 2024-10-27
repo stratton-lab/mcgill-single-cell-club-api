@@ -41,8 +41,8 @@
       ],
       "category": "special-seminar",
 	"location": "The Neuro. Montreal Neurological Institute-Hospital, 3801 Rue University Montréal, QC H3A 2B4",
-      "details": "B.Sc in Aerospace Engineering (2005), M.Sc in Civil and Environmental Engineering (2007) from Technion, Israel Instutite of Technology. PhD in computer Science and Applied Math from Weizmann Institute of Science (2012). Postdoc at Karolinska Institute (Stockholm) at Division for Molecular Neurobiology. Since 2018 Assistante Professor at Technion, Faculty of Biotechnology and Food Engineering.",
-      "registration": "Registration is required to attend the lecture in-person https://www.eventbrite.com/e/killam-seminar-series-single-cell-approaches-to-studying-connectivity-tickets-989205800177?aff=oddtdtcreator, link to watch the lecture live stream https://vimeo.com/event/2446006",
+      "details": "B.Sc in Aerospace Engineering (2005), M.Sc in Civil and Environmental Engineering (2007) from Technion, Israel Instutite of Technology. PhD in Computer Science and Applied Math from Weizmann Institute of Science (2012). Postdoc at Karolinska Institute (Stockholm) at the Division for Molecular Neurobiology. Since 2018 assistant professor at Technion, Faculty of Biotechnology and Food Engineering.",
+      "registration": "Registration is required to attend the lecture in-person",
       "registrationLinks": [{
           "name": "Registration to attend the lecture in-person (required)",
           "url": "https://www.eventbrite.com/e/killam-seminar-series-single-cell-approaches-to-studying-connectivity-tickets-989205800177?aff=oddtdtcreator"
@@ -507,7 +507,7 @@
       {
         "name": "Georgia Kruck",
         "position": "Social Media and Event Promotion Chair",
-        "affiliation": "BMSc student in Neuroscience, Lab of Dr. Nagy, \nThe Douglas, McGill University.",
+        "affiliation": "MSc student in Neuroscience, Lab of Dr. Nagy, \nThe Douglas, McGill University.",
         "image": "Georgia.jpg"
       },
       {
