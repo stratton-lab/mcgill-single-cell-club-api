@@ -79,6 +79,36 @@
       "registration": "Registration not required, The event is kindly supported by HBHL"
     },
 
+      {
+      "date": 1733349600000,
+      "title": "Applications for machine learning in single cell data analysis",
+      "image": "machine_learning.jpg",
+      "category": "discussion",
+      "chairs": [
+        {
+          "name": "Michael Luo",
+          "affiliation": "PhD Candidate, Petrecca Lab"
+        },
+	{
+          "name": "Rhalena Thomas, PhD",
+          "affiliation": "Research Associate, Fon Lab"
+        }
+      ],
+      "presenters": [
+        {
+          "name": "Shakour Mohammadnia, PhD",
+          "affiliation": "Postdoctoral Fellow, Fournier & Antel Labs"
+        },
+        {
+          "name": "Finn Creeggan",
+          "affiliation": "Undergraduate Student, Stratton Lab"
+        }
+      ],
+      "location": "Thompson House, 3650 McTavish St, Montreal, Quebec, H3A 1Y2 (basement dining area).",
+      "details": "You will learn about the different applications for machine learning in single cell data analysis. Free snacks and drinks will be provided",
+      "registration": "Registration required, https://forms.gle/Q5SdKcS7eKnKX3uM6"
+    },
+
     {
       "date": 1706281200000,
       "title": "Oligodendroglia in Development and Multiple Sclerosis: Insights from Single-Cell and Spatial Omics",
