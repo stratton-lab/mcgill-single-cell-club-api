@@ -181,6 +181,69 @@
       "details": "You will learn about different platforms to perform Spatial Transcriptomics, their opportunities and challenges, data processing approaches and ways to visualize spatial data.",
       "registration": "Registration is free but required. Use this link to register: https://forms.gle/we2QHFNLiRD9fFat7"
     },
+	  {
+      "date": 1738159200000,
+      "title": "Data Integration and Machine Learning for Brain Single Cell Datasets",
+      "presenters": [
+        {
+          "name": "Michael Fiorini",
+          "affiliation": "McGill University"
+        }
+      ],
+      "image": "tissue-architecture.jpg",
+      "category": "zoom"
+    },
+
+   {
+      "date": 1740578400000,
+      "title": "Long Read Single Cell",
+      "presenters": [
+        {
+          "name": "Mariela Cortes-Lopez",
+          "affiliation": "Weill Cornell Medicine and the New York Genome Center"
+        }
+      ],
+      "image": "gen-demult.png",
+      "category": "zoom"
+    },
+
+   {
+      "date": 1742994000000,
+      "title": "TBA",
+      "presenters": [
+        {
+          "name": "TBA",
+          "affiliation": "TBA"
+        }
+      ],
+      "image": "sc_generic_1.jpg",
+      "category": "zoom"
+    },
+   {
+      "date": 1746018000000,
+      "title": "TBA",
+      "presenters": [
+        {
+          "name": "TBA",
+          "affiliation": "TBA"
+        }
+      ],
+      "image": "sc_generic_2.jpg",
+      "category": "zoom"
+    },
+    {
+      "date": 1748437200000,
+      "title": "TBA",
+      "presenters": [
+        {
+          "name": "TBA",
+          "affiliation": "TBA"
+        }
+      ],
+      "image": "sc_generic_1.jpg",
+      "category": "zoom"
+    },
+
     {
       "date": 1695787200000,
       "title": "Liquid chromatography/mass spectrometry based proteomics at the single cell level",
