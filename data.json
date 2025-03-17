@@ -30,6 +30,30 @@
       ]
     },
 {
+      "date": 1743105600000,
+      "title": "Olszewski Lecture: Spatially Resolved Single-Cell Genomics & Cell Atlas of the Brain",
+      "image": "xiaowei_zhuang_square.jpg",
+      "presenters": [
+        {
+          "name": "Dr. Xiaowei Zhuang",
+          "affiliation": "Howard Hughes Medical Institute, Harvard University"
+        }
+      ],
+      "category": "special-seminar",
+	"location": "De Grandpre Communications Centre,3801 Rue University Montréal, QC H3A 2B4",
+      "details": "Cell and tissue functions arise from the coordinated activities of thousands of different genes. Understanding these functions requires imaging at the genome scale, which advances knowledge in many areas of biology, from the regulation of gene expression in cells to the development of cell fate and the organization of cell types in complex tissues. A single-cell genome-scale imaging method, multiplexed error-robust fluorescence in situ hybridization (MERFISH), was developed to enable spatially resolved single-cell transcriptomics, epigenomics, 3D-genomics, and functional genomics. This method allows for single-cell gene-expression profiling in intact tissues, facilitating the identification, spatial mapping, and functional investigation of distinct cell types within those tissues. Using this approach, molecularly defined, spatially resolved, and functionally annotated cell atlases of the brain have been created. This lecture will describe the MERFISH technology and its applications, with a particular focus on mapping the molecular, spatial, and functional organizations of distinct cell types in the brain.",
+      "registration": "Registration is required to attend in person.",
+      "registrationLinks": [{
+        "name": "Registration to attend in person",
+        "url": "https://www.eventbrite.com/e/spatially-resolved-single-cell-genomics-cell-atlas-of-the-brain-tickets-1092539447899?aff=oddtdtcreator"
+        },
+        {
+          "name": "Watch the lecture live stream",
+          "url": "https://vimeo.com/event/4745195"
+        }
+      ]
+    },
+{
       "date": 1730232000000,
       "title": "Killam Seminar Series: Single-Cell Approaches to Studying Connectivity and Neuronal States During Fear Learning",
       "image": "amit_zeisel_-_amit_zeisel.jpg",
