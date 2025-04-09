@@ -61,7 +61,9 @@
       "chairs": [
         {
           "name": "Dr. Moein Yaqubi",
-          "affiliation": "Post-doctoral Scholar, Stratton lab, The Neuro",
+          "affiliation": "Post-doctoral Scholar, Stratton lab, The Neuro"
+	},
+	{
 	  "name": "Dr. Rhalena Thomas",
           "affiliation": "Research Associate, Fon lab and The Neuro EDDU"
         }
@@ -74,7 +76,7 @@
       ],
       "category": "workshop",
       "location": "Jeanne Timmins Amphitheatre & Foyer, The Neuro, 3801 University Street, Montreal",
-      "details": "On behalf of the Single Cell Club, you are kindly invited to apply for the Single Cell Workshop 2025. The workshop will cover wet and dry lab aspects of single cell sequencing techniques. Topics will include: sample preparation, detailed analysis workflows, data management, and open science resources. The workshop is designed for those who have a basic knowledge of single cell techniques and a basic knowledge of coding. Thanks to our sponsors, the workshop is free, however, spots are limited. Participants will be selected based on coding experience and other criteria (see application form). Please fill out the application form by <b>April 25th 2025 </b> to be considered as a participant. We will contact you through the email address you provide in the application form if you have been accepted to the workshop before the end of <b>April 2025</b>. For any further questions, please send an email the event chairs using the subject line Single Cell Workshop 2025.",
+      "details": "On behalf of the Single Cell Club, you are kindly invited to apply for the Single Cell Workshop 2025. The workshop will cover wet and dry lab aspects of single cell sequencing techniques. Topics will include: sample preparation, detailed analysis workflows, data management, and open science resources. The workshop is designed for those who have a basic knowledge of single cell techniques and a basic knowledge of coding. Thanks to our sponsors, the workshop is free, however, spots are limited. Participants will be selected based on coding experience and other criteria (see application form). Please fill out the application form by April 25th 2025 to be considered as a participant. We will contact you through the email address you provide in the application form if you have been accepted to the workshop before the end of April 2025. For any further questions, please send an email to the event chairs using the subject line Single Cell Workshop 2025.",
       "registration": "Attendance is free, food is included. Competitive application process is required.",
       "registrationLinks": [
         {
