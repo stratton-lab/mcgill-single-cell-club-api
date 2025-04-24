@@ -79,12 +79,12 @@
       "locationBbox":[-73.58249098062517, 45.50858190706504, -73.57998043298723, 45.50978490130012],		  
       "details": "On behalf of the Single Cell Club, you are kindly invited to apply for the Single Cell Workshop 2025. The workshop will cover wet and dry lab aspects of single cell sequencing techniques. Topics will include: sample preparation, detailed analysis workflows, data management, and open science resources. The workshop is designed for those who have a basic knowledge of single cell techniques and a basic knowledge of coding. Thanks to our sponsors, the workshop is free, however, spots are limited. Participants will be selected based on coding experience and other criteria (see application form). Please fill out the application form by April 30th 2025 to be considered as a participant. We will contact you through the email address you provide in the application form if you have been accepted to the workshop by the end of April 2025. For any further questions, please send an email to the event chairs using the subject line Single Cell Workshop 2025.",
       "registration": "Attendance is free, food is included. Competitive application process is required.",
-      "registrationCTA":{"name":"Complete Application", "url":"https://forms.gle/kSqD6sJy96tTLEsW9"},		  
+      "registrationCTA":{"name":"Complete Application", "url":"https://forms.gle/qPx2X33Y9VmExoh39"},		  
       "registrationDeadline":"April 30th 2025",		  
       "registrationLinks": [
         {
           "name": "Please complete the application HERE",
-          "url": "https://forms.gle/kSqD6sJy96tTLEsW9"
+          "url": "https://forms.gle/qPx2X33Y9VmExoh39"
         },
         {
           "name": "Please find the agenda HERE",
