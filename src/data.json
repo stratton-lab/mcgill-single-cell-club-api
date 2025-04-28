@@ -30,6 +30,38 @@
       ]
     },
 {
+      "date": 1750363200000,
+      "title": "Spatial Transcriptomic Discussion",
+      "image": "quality_discussion.jpg",
+      "category": "discussion",
+      "chairs": [
+        {
+          "name": "TBD",
+          "affiliation": "TBD"
+        }
+      ],
+      "presenters": [
+        {
+          "name": "Dr. Charles Couturier  MD PhD",
+          "affiliation": "McGill University"
+        },
+        {
+          "name": "Dr. Simon Thebault MD PhD",
+          "affiliation": "McGill University"
+        },
+	{
+          "name": "Dr. Loïc Binan PhD",
+          "affiliation": "McGill University"
+        }
+      ],
+      "location": "Jeanne Timmins Amphitheatre at The Neuro 3801 Rue University, Montréal, QC H3A 2B4",
+      "details": "The event will commence with a presentation by Dr. Charles Couturier on the molecular and spatial molecular landscape of glioblastoma. The program will then proceed with a panel discussion which will include McGil single cell new recruits: Dr. Simon Thebault, MD, PhD (immunology and rare cell identification) and Dr. Loïc Binan, PhD (Cancer and Perturb-seq).",
+      "registration": "Attendance is free but registration is required",
+      "registrationCTA":{"name":"Complete Registration", "url":"https://forms.gle/kSqD6sJy96tTLEsW9"},		  
+      "registrationDeadline":"June 18th 2025"
+    },
+	  
+{
       "date": 1743105600000,
       "title": "Olszewski Lecture: Spatially Resolved Single-Cell Genomics & Cell Atlas of the Brain",
       "image": "xiaowei_zhuang_square.jpg",
