@@ -29,6 +29,18 @@
         }
       ]
     },
+	{
+      "date": 1758718800000,
+      "title": "Targeting Therapeutic Vulnerabilities in Stem-like Glioblastoma Cells",
+      "presenters": [
+        {
+          "name": "Michael Lui",
+          "affiliation": "McGill University"
+        }
+      ],
+      "image": "scc_sep2025.png",
+      "category": "zoom"
+    },
 	  {
       "date": 1754409600000,
       "title": "Decoding Signaling Networks at the Brain Tumor-Host Interface",
