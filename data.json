@@ -30,6 +30,18 @@
       ]
     },
 	{
+      "date": 1764166140000,
+      "title": "From Sequence to Function to Understanding ",
+      "presenters": [
+        {
+          "name": "Seppe De Winter",
+          "affiliation": "University of Leuven"
+        }
+      ],
+      "image": "scc_nov2025.png",
+      "category": "zoom"
+    },
+	{
       "date": 1761138000000,
       "title": "From Single Cells to Regulatory Networks: Using Deep Learning to Reveal Drivers of Glioblastoma Plasticity",
       "presenters": [
