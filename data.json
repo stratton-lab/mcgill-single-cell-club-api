@@ -29,6 +29,35 @@
         }
       ]
     },
+	   {
+      "date": 1764885600000,
+      "title": "Single-Cell Technologies in Pre-Clinical & Clinical Solutions",
+      "image": "discussion2025.png",
+      "category": "discussion",
+      "chairs": [
+        {
+          "name": "TBD",
+          "affiliation": "TBD"
+        }
+      ],
+      "presenters": [
+        {
+          "name": "Dr. Elena Kuzmin",
+          "affiliation": "Concordia University"
+        },
+        {
+          "name": "Dr. David Langlais",
+          "affiliation": "McGill University"
+        },
+        {
+          "name": "Yumin Zheng",
+          "affiliation": "PhD Candidate, McGill University"
+        }
+      ],
+      "location": "Thomson House 3650 McTavish St, Montreal, QC H3A 1X9",
+      "details": "Hors d'oeuvres and drinks will be provided",
+      "registration": "Registration not required"
+    },
 	{
       "date": 1764165600000,
       "title": "From Sequence to Function to Understanding ",
