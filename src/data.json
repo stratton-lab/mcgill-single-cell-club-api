@@ -29,6 +29,24 @@
         }
       ]
     },
+	{
+      "date": 1769608800000,
+      "title": "Hidden Circuits: Mapping Depression Through Spatial Transcriptomics",
+      "presenters": [
+        {
+          "name": "Dr. Sierra Codeluppi-Arrowsmith",
+          "affiliation": "Gustavo Turecki Lab, Douglas Research Centre - McGill University"
+        }
+      ],
+      "image": "jan2026_sc.png",
+      "category": "zoom"
+    },
+
+
+
+
+
+	  
 	   {
       "date": 1764885600000,
       "title": "Single-Cell Technologies in Pre-Clinical & Clinical Solutions",
