@@ -41,12 +41,19 @@
       "image": "jan2026_sc.png",
       "category": "zoom"
     },
+	{
+      "date": 1772028000000,
+      "title": "Single-cell expression QTL analyses of the human cerebellum reveal vulnerability of oligodendrocytes in essential tremor",
+      "presenters": [
+        {
+          "name": "Dr. Charles-Etienne Castonguay",
+          "affiliation": "Neurology Resident - McGill University"
+        }
+      ],
+      "image": "feb2026_sc.png",
+      "category": "zoom"
+    },
 
-
-
-
-
-	  
 	   {
       "date": 1764885600000,
       "title": "Single-Cell Technologies in Pre-Clinical & Clinical Solutions",
