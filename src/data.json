@@ -53,6 +53,18 @@
       "image": "april2026_sc.png",
       "category": "zoom"
     },
+	  {
+      "date": 1778677200000,
+      "title": "A unifying neuropathological spectrum underlies medial temporal lobe epilepsy",
+      "presenters": [
+        {
+          "name": "Dr. Larissa Kraus",
+          "affiliation": "Cembrowski lab, UBC"
+        }
+      ],
+      "image": "may2026_sc.png",
+      "category": "zoom"
+    },
 	{
       "date": 1769608800000,
       "title": "Hidden Circuits: Mapping Depression Through Spatial Transcriptomics",
