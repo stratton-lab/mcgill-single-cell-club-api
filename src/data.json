@@ -41,6 +41,18 @@
       "image": "march2026_sc.png",
       "category": "zoom"
     },
+	  {
+      "date": 1774443600000,
+      "title": "SpaTM: Topic models for inferring spatially informed transcriptional programs",
+      "presenters": [
+        {
+          "name": "Adrien Osakwe",
+          "affiliation": "McGill University"
+        }
+      ],
+      "image": "april2026_sc.png",
+      "category": "zoom"
+    },
 	{
       "date": 1769608800000,
       "title": "Hidden Circuits: Mapping Depression Through Spatial Transcriptomics",
