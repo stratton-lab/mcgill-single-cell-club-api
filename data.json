@@ -777,8 +777,8 @@
     "people": [
       {
         "name": "Dr. Jo Anne Stratton",
-        "position": "co-Director",
-        "affiliation": "Assistant Professor of Neuroimmunology,\nDepartment of Neurology and Neurosurgery, McGill University",
+        "position": "Director",
+        "affiliation": "Assistant Professor,\nDepartment of Neurology and Neurosurgery, McGill University",
         "image": "stratton.png",
         "director": true
       },
