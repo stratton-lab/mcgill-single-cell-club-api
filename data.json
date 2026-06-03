@@ -30,6 +30,33 @@
       ]
     },
 	  {
+      "date": 1781730000000,
+      "title": "Single Cell Discussion - Roadmap to the future: single cell technology development and the applications for research",
+      "image": "sc_dc_june2026.png",
+      "category": "discussion",
+      "chairs": [
+        {
+          "name": "TBA",
+          "affiliation": "TBA"
+        }
+      ],
+      "presenters": [
+        {
+          "name": "TBA",
+          "affiliation": "TBA"
+        },
+        {
+          "name": "TBA",
+          "affiliation": "TBA"
+        }
+      ],
+      "location": "Thomson House, 3650 rue McTavish Montreal, QC H3A 1X1",
+      "details": "TBA",
+      "registration": "Attendance is free but registration is required",
+      "registrationCTA":{"name":"Complete Registration", "url":"TBA"},		  
+      "registrationDeadline":"TBA"
+    },
+	  {
       "date": 1781701200000,
       "days": 2,
       "title": "Single cell library prep workshop - Illumina",
