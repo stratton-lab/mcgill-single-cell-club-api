@@ -46,7 +46,7 @@
       ],
       "presenters": [
         {
-          "name": "Agenda coming soon",
+          "name": "Register here",
           "affiliation": "Single Cell Workshop"
         }
       ],
@@ -55,7 +55,7 @@
       "locationBbox":[-73.58249098062517, 45.50858190706504, -73.57998043298723, 45.50978490130012],		  
       "details": "On behalf of the Single Cell Club, you are kindly invited to apply for the Single Cell Workshop 2026. Don't miss out on a great opportunity to participate in our single cell wet lab workshop. For any further questions, please contact us using the subject line Single Cell Workshop 2026.",
       "registration": "Attendance is free but registration is required",
-      "registrationCTA":{"name":"Complete Application", "url":" https://forms.office.com/Pages/ResponsePage.aspx?id=zeXqNq3lpk6dR4b8pIxIQRnmDnlCTrFNhyEQVZy2S01UNVVXVFVGOTM4OE5XMlFPNERIVlU3VEVTVC4u"},		  
+      "registrationCTA":{"name":"Complete Application", "url":"https://forms.office.com/Pages/ResponsePage.aspx?id=zeXqNq3lpk6dR4b8pIxIQRnmDnlCTrFNhyEQVZy2S01UNVVXVFVGOTM4OE5XMlFPNERIVlU3VEVTVC4u"},		  
       "registrationDeadline":"June 5th, 2026"
     },
 	{
