@@ -326,6 +326,44 @@
         }
       ]
     },
+	  {
+      "date": 1779109200000,
+      "days": 1,
+      "title": "Cells in Space: A Hands-On Journey Through Spatial Transcriptomics",
+      "image": "sc_workshop_may2026.png",
+      "chairs": [
+        {
+          "name": "Dr. Larissa Kraus",
+          "affiliation": "Post-doctoral Fellow, University of British Columbia"
+		}
+      ],
+      "presenters": [
+        {
+          "name": "Dr. Keri Martinowich",
+          "affiliation": "Primary investigator, Johns Hopkins University"
+        },
+	{
+          "name": "Michael Luo",
+          "affiliation": "MD-PhD Student, McGill"
+        },
+	{
+          "name": "Dr. Haruka Mitsuhashi",
+          "affiliation": "Post-doctoral Fellow, McGill"
+        },
+	{
+          "name": "Dr. Ashleigh Willis",
+          "affiliation": "Post-doctoral Fellow, University of British Columbia"
+        },
+	{
+          "name": "Shalini Iyer",
+          "affiliation": "PhD Candidate, University of British Columbia"
+        }
+      ],
+      "category": "workshop",
+      "location": "Jeanne Timmins Amphitheatre & Foyer, The Neuro, 3801 University Street, Montreal",
+      "locationBbox":[-73.58249098062517, 45.50858190706504, -73.57998043298723, 45.50978490130012],		  
+      "details": ""
+    },
 {
       "date": 1730232000000,
       "title": "Killam Seminar Series: Single-Cell Approaches to Studying Connectivity and Neuronal States During Fear Learning",
