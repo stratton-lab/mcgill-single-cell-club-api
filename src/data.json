@@ -326,7 +326,7 @@
         }
       ]
     },
-	  	  {
+	  {
       "date": 1779109200000,
       "days": 1,
       "title": "Cells in Space: A Hands-On Journey Through Spatial Transcriptomics",
@@ -335,7 +335,7 @@
         {
           "name": "Dr. Larissa Kraus",
           "affiliation": "Post-doctoral Fellow, University of British Columbia"
-	},
+		}
       ],
       "presenters": [
         {
@@ -358,7 +358,6 @@
           "name": "Shalini Iyer",
           "affiliation": "PhD Candidate, University of British Columbia"
         }
-
       ],
       "category": "workshop",
       "location": "Jeanne Timmins Amphitheatre & Foyer, The Neuro, 3801 University Street, Montreal",
