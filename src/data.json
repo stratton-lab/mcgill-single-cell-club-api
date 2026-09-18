@@ -30,6 +30,18 @@
       ]
     },
 	  {
+      "date": 1790773200000,
+      "title": "Epigenetic priming for a memory-associated inflammatory response in human astrocytes",
+      "presenters": [
+        {
+          "name": "Dr. Moein Yaqubi",
+          "affiliation": "McGill University"
+        }
+      ],
+      "image": "sc_sep2026.png",
+      "category": "zoom"
+    },
+	  {
       "date": 1781730000000,
       "title": "Single Cell Discussion - Roadmap to the future: single cell technology development and the applications for research",
       "image": "sc_dc_june2026.png",
